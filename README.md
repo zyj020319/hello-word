@@ -1,2 +1,3 @@
 # hello-word
-My first GitHub repo
+This is my first GitHub repo
+My name is Yijin Zhang .I am a department of Voice at Hanyang University in Seoul, Korea.
